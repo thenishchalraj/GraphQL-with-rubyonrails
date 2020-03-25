@@ -42,3 +42,5 @@ gem 'graphql', '1.9.17'
 #required to change from gem 'graphiql-rails', group: :development to the following
 gem 'graphiql-rails', '1.7.0', group: :development
 
+#The has_secure_password in app/models/user.rb requires the bcrypt gem to encrypt and verify user passwords.
+gem 'bcrypt', '~> 3.1.13'
