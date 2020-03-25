@@ -7,4 +7,5 @@ If there is some problem/conflict with versions, then remove ruby and reinstall 
 Getting started: https://www.howtographql.com/graphql-ruby/2-queries/
 Queries: https://www.howtographql.com/graphql-ruby/2-queries/
 Mutations: https://www.howtographql.com/graphql-ruby/3-mutations/
-Next -> Authentication: https://www.howtographql.com/graphql-ruby/4-authentication/
+Authentication: https://www.howtographql.com/graphql-ruby/4-authentication/
+Next -> Connecting Nodes: https://www.howtographql.com/graphql-ruby/5-connecting-nodes/
